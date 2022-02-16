@@ -22,4 +22,4 @@ test_myclass.py ......   [100%]
 =========================== 7 passed in 0.02s ============================ 
 ```
 
-Credit: https://github.com/python-frederick/python-testing-101
+Credit: https://github.com/python-frederick/python-testing-101 + https://www.youtube.com/watch?v=etosV2IWBF0

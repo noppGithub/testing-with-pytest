@@ -22,4 +22,7 @@ test_myclass.py ......   [100%]
 =========================== 7 passed in 0.02s ============================ 
 ```
 
+
+You can run this kind of test manually as well see the section `manual testing` in the file `myclass.py` at line 39 and below
+
 Credit: https://github.com/python-frederick/python-testing-101 + https://www.youtube.com/watch?v=etosV2IWBF0

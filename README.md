@@ -24,5 +24,6 @@ test_myclass.py ......   [100%]
 
 
 You can run this kind of test manually as well see the section `manual testing` in the file `myclass.py` at line 39 and below
+I also added `test_myclase_again.py` file to show that we can have multiple test cases file.
 
 Credit: https://github.com/python-frederick/python-testing-101 + https://www.youtube.com/watch?v=etosV2IWBF0
